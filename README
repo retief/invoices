@@ -1,0 +1,4 @@
+Requirements: python 3, django, and the indico client
+Also expects an indico_api_token.txt in your home directory
+
+there are 4 main routes -- api/upload, api/get/<id>, api/search/<search>, and api/all
